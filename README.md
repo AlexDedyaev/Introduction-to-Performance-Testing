@@ -24,7 +24,7 @@
 
 
 ## Что было сделано:
-### Решения
+### Решение:
 * **Задание 1** - <a href="https://docs.google.com/document/d/1ip_wbIpNMd1Cva8Y_TvamtDcbnfz2N7lWK4WFsxM004/edit?tab=t.0">Список</a> вопросов к менеджеру проекта.
 
 * **Задание 2** - <a href="https://docs.google.com/document/d/1v3tfKtRecFajM7Szf5VXGYpM7UjyXowfG2ocsYRjZRs/edit?tab=t.0#heading=h.wv4sb5u04n8j">Список</a> видов необходимого тестирования.
